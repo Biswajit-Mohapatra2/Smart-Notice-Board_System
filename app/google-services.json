@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554858070599",
+    "project_id": "mirror-webapp",
+    "storage_bucket": "mirror-webapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554858070599:android:002da3e52a7829b394a762",
+        "android_client_info": {
+          "package_name": "com.smart.smartnoticeboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61RF1Sa7mJejy9u8nPiLdjv0VNd_oNXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

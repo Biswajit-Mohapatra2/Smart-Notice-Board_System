@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.SmartNoticeBoard" parent="@style/Theme.Leanback" />
+</resources>
